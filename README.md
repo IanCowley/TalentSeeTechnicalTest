@@ -29,7 +29,7 @@ Please complete each story in order.
 
 As a **customer**  
 I want **to see my discount total calculated according to the discount rate**  
-So that **I know how much I will save with my current discount rate*
+So that **I know how much I will save with my current discount rate**
 
 #### Acceptance criteria
 
