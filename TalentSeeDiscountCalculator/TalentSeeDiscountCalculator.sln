@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentSeeDiscountCalculator.Tests", "TalentSeeDiscountCalculator\TalentSeeDiscountCalculator.Tests.csproj", "{C8358623-2FF3-4B89-8F11-F54A47699D1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentSeeDiscountCalculator.Tests", "TalentSeeDiscountCalculator.Tests\TalentSeeDiscountCalculator.Tests.csproj", "{C8358623-2FF3-4B89-8F11-F54A47699D1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentSeeDiscountCalculator.Console", "TalentSeeDiscountCalculator.Console\TalentSeeDiscountCalculator.Console.csproj", "{D23EB645-C8B8-4552-A469-EBF4711D8561}"
 EndProject
