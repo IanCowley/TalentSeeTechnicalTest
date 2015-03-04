@@ -1,6 +1,6 @@
 ## Intro
 
-[TalentSee](http://www.talentsee.com) operates a universal discounting system for our Enterprise Customers.
+[TalentSee](http://www.talentsee.com) operates a universal discounting system for our customers.
 
 This assignment is a very small task to create a Discount calculator.
 
