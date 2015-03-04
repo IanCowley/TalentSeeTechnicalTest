@@ -67,7 +67,7 @@ So that **I'm not confused about how much will save**
 
 As an **sales person**  
 I want **to supplement the discount total based on discount types**  
-So that **we will have additional discoun types available**
+So that **we will have additional discount types available**
 
 #### Acceptance criteria
 
