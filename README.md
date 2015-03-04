@@ -4,7 +4,7 @@
 
 This assignment is a very small task to create a Discount calculator.
 
-For reference, Gift Aid is calculated as follows:
+For reference, Discount is calculated as follows:
 
 [NumberofCredits] * ([DiscountRate] / (100 - [DiscountRate]))
 
